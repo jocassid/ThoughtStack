@@ -1,0 +1,8 @@
+
+       II B 2
+       II B 1
+     * II B
+       II A 1
+     * II A
+     II
+-> * I
